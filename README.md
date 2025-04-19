@@ -1,4 +1,6 @@
+### 'npm i'
 
+To download all node modules
 
 ### `npm start`
 
