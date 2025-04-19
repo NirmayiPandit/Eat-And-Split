@@ -1,4 +1,4 @@
-### 'npm i'
+### `npm i`
 
 To download all node modules
 
